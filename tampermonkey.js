@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Download Bilibili opus (专栏/图文动态) as Markdown, compressing special blocks into XML tags
-// @author       Glenn
+// @author       ChocoLZS
 // @match        *://www.bilibili.com/opus/*
 // @icon         https://www.bilibili.com/favicon.ico
 // @grant        GM_addStyle
